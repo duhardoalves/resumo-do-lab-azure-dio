@@ -1,7 +1,7 @@
 # resumo-do-lab-azure-dio
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-O# ☁️ Cloud Computing e Infraestrutura de TI
+☁️ Cloud Computing e Infraestrutura de TI
 
 ## O que é Cloud Computing?
 
